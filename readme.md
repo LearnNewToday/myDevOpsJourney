@@ -3,3 +3,4 @@ peter is a new devops student
 include studio.h
 AWS
 Azure
+google
